@@ -1,7 +1,5 @@
 # Catch-The-Atakan
  A simple level of entertainment
  
- ![Ekran Resmi 2020-05-25 02 01 12](https://user-images.githubusercontent.com/48566734/82766921-c559cb00-9e2b-11ea-9c5d-61881d0fbb68.png)
-![Ekran Resmi 2020-05-25 02 01 05](https://user-images.githubusercontent.com/48566734/82766924-c854bb80-9e2b-11ea-8d47-497ec9ecd72b.png)
-![Ekran Resmi 2020-05-25 02 01 54](https://user-images.githubusercontent.com/48566734/82766927-c8ed5200-9e2b-11ea-9fd1-48118cf405b1.png)
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:206.94%;position:relative;"><iframe width="360" height="745" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/42p455"></iframe></div><p><a href="https://imgflip.com/gif/42p455">via Imgflip</a></p></div>
 
